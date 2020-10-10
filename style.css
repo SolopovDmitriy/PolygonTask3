@@ -1,0 +1,22 @@
+aside {
+    float: right;
+    width: 600px;
+    height: 600px;
+}
+
+div {
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+span {
+    font-size: 20px;
+    font-weight: normal;
+    margin-right: 15px;
+}
+
+input {
+    width: 10px;
+    margin-right: 10px;
+}
